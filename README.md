@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Python Badge]](http://img.shields.io/badge/language-swift-orange&logo=Python&logoColor=#EC1D24&link=https://img.shields.io/badge/-Python-%23EC1D24)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeoJune&&show_icons=true&theme=default)]
 <!--
 **ParkSeoJune/ParkSeoJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
