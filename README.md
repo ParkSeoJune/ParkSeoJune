@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=박서준&fontSize=70)
 ### My skills
-[![Python](https://img.shields.io/badge/Python-#EC1D24?style=flat-square&logo=Python&logoColor=white)](https://img.shields.io/badge/-Python-%23EC1D24)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeoJune&&show_icons=true&theme=default)]
 
 
