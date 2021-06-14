@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=박서준&fontSize=70)
-### My skills
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeoJune&&show_icons=true&theme=default)]
 
