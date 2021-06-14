@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#34A7C1&height=250&section=header&text=박서준&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=며새&height=250&section=header&text=박서준&fontSize=70)
 
 ### Hi there 👋
 
