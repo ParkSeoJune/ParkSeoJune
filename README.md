@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=박서준&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Park Seo June&fontSize=70)
 
 <h1 align="center"> 📋 My Introduce</h1>
 <h3 align="center">  👋🏻 Hi, my name is Seo June Park.
