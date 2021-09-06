@@ -13,7 +13,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeoJune&&show_icons=true&theme=default)
-
+![ParkSeoJune's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeoJune&layout=compact)
 
 <!--
 **ParkSeoJune/ParkSeoJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
