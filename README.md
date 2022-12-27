@@ -4,14 +4,6 @@
 <h3 align="center">  👋🏻 Hi, my name is Seo June Park
 <h3 align="center">  🏫 I'm a student in Gwangju Software Meister highschool   
 
-  
-  <h1 align="center"> 🔉 My langauge</h1>
-
-<h2 align="center"> <img src="https://img.shields.io/badge/Python-A2F5E6?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/AndroidStudio-70F170?style=flat-square&logo=AndroidStudio&logoColor=white"> <img src="https://img.shields.io/badge/C-96D5D7?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-57E9E1?style=flat-square&logo=Kotlin&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Android-70F170?style=flat-square&logo=Android&logoColor=white"/> 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeoJune&&show_icons=true&theme=default)
 ![ParkSeoJune's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeoJune&layout=compact)
 
