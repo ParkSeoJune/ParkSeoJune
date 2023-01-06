@@ -4,7 +4,6 @@
 <h3 align="center">  👋🏻 Hi, my name is Seo June Park
 <h3 align="center">  🏫 I'm a student in Gwangju Software Meister highschool   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeoJune&&show_icons=true&theme=default)
 ![ParkSeoJune's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeoJune&layout=compact)
 
 <!--
