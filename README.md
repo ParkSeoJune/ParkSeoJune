@@ -4,8 +4,6 @@
 <h3 align="center">  👋🏻 Hi, my name is Seo June Park
 <h3 align="center">  🏫 I'm a student in Gwangju Software Meister highschool   
 
-![ParkSeoJune's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeoJune&layout=compact)
-
 <!--
 **ParkSeoJune/ParkSeoJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
