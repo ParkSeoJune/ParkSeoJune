@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ParkSeoJune&fontSize=70)
+반갑습니다. 저는 주니어 프론트엔드 개발자 박서준입니다.
 
-<h1 align="center"> 📋 My Introduce</h1>
-<h3 align="center">  👋🏻 Hi, my name is Seo June Park
-<h3 align="center">  🏫 I'm a student in Gwangju Software Meister highschool   
+새로운 기술과 트렌드를 지속적으로 주시하며,
+끊임없는 발전을 위해 노력합니다.🤔
+
+## About
+
+- Skills: ReactJS, TypeScript
+- Email: tjwns4122@gmail.com
+- [Portfolio](https://seojune1227.notion.site/Park-SeoJune-0b265815d96b43d1be39541bc82d791a)
 
 <!--
 **ParkSeoJune/ParkSeoJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
